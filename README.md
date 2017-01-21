@@ -1,5 +1,5 @@
 # certbot-test
-make a certficate by [certbot](https://certbot.eff.org/).
+make a certficate by [Certbot](https://certbot.eff.org/).
 
 
 ## Description
